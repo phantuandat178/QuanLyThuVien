@@ -12,5 +12,6 @@ public class BTT2_1 {
         String hoTen = sc.nextLine(); 
         System.out.println("Xin chào, họ và tên của tôi là: " + hoTen);
         System.out.println("Mã sinh viên: 23115053122209");
+        System.out.println("Chương trình kết thúc. Cảm ơn bạn!");
     }
 }
