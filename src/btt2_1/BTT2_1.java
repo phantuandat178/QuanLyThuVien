@@ -11,5 +11,6 @@ public class BTT2_1 {
         System.out.print("Nhập họ và tên của bạn: ");
         String hoTen = sc.nextLine(); 
         System.out.println("Xin chào, họ và tên của tôi là: " + hoTen);
+        System.out.println("Mã sinh viên: 23115053122209");
     }
 }
